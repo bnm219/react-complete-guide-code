@@ -1,6 +1,7 @@
 # Course Code & Materials
 
 This repository contains the course source code and other extra materials like slides.
+//bnm219- I am using this code for educational purposes only.
 
 ## How to use
 
